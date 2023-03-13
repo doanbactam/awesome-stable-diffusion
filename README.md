@@ -9,11 +9,20 @@
 
 </p>
 
-</br>
-
 <h3>Help this grow and get discovered by other devs with a ⭐ star.</h3>
 
-## 👑 Stable Diffusion
+# Table of Contents
+
+- [Stable Diffusion](#stable-diffusion)
+    - [Python](#python)
+    - [Jupyter Notebook](#jupyter-notebook)
+    - [TypeScript](#typescript)
+    - [JavaScript](#javascript)
+    - [Swift](#swift)
+    - [Dockerfile](#dockerfile)
+    - [Swift](#swift)
+
+## 👑Stable Diffusion
 
 ### Python
 
@@ -22,11 +31,19 @@
 
 ### Jupyter Notebook
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
-
+- [InvokeAI: A Stable Diffusion Toolkit](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike.
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
 
 ### Swift
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion): Run Stable Diffusion on Mac natively
+
+### Dockerfile
+
+### Rust
+
+### C++
+
+### HTML
 
 A curated list of awesome stable diffusion resources 🌟
