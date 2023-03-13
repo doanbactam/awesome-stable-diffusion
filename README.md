@@ -46,6 +46,8 @@
 
 ### Dockerfile
 
+- [Stable Diffusion WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker): Easy Docker setup for Stable Diffusion with user-friendly UI
+
 ### Rust
 
 ### Vue
