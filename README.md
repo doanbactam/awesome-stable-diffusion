@@ -16,11 +16,12 @@
 - [Stable Diffusion](#stable-diffusion)
     - [Python](#python)
     - [Jupyter Notebook](#jupyter-notebook)
-    - [TypeScript](#typescript)
     - [JavaScript](#javascript)
     - [Swift](#swift)
     - [Dockerfile](#dockerfile)
-    - [Swift](#swift)
+    - [Rust](#rust)
+    - [Vue](#vue)
+    - [Kotlin](#kotlin)
 
 ## 👑Stable Diffusion
 
@@ -28,12 +29,15 @@
 
 - [Stability-AI](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
+- [diffusers](https://github.com/huggingface/diffusers): Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 
 ### Jupyter Notebook
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
 - [InvokeAI: A Stable Diffusion Toolkit](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike.
+
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
+- [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin): A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 
 ### Swift
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion): Run Stable Diffusion on Mac natively
@@ -42,8 +46,9 @@
 
 ### Rust
 
-### C++
+### Vue
+- [Stable UI](https://github.com/aqualxx/stable-ui): Stable UI is a web user interface designed to generate, save, and view images using Stable Diffusion, with the goal being able to provide Stable Diffusion to anyone for 100% free.
 
-### HTML
+### Kotlin
 
 A curated list of awesome stable diffusion resources 🌟
