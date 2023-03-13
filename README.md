@@ -20,14 +20,15 @@
 ### Python
 
 - [Stability-AI](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
-- [fast-stable-diffusion] (https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
+- [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
 
 ### Jupyter Notebook
-- [Stable Diffusion] (https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
 
 ### JavaScript
-- [Easy Diffusion 2.5] (https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
+- [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
 
 ### Swift
-- [MochiDiffusion] (https://github.com/godly-devotion/MochiDiffusion): Run Stable Diffusion on Mac natively
+- [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion): Run Stable Diffusion on Mac natively
 
+A curated list of awesome stable diffusion resources 🌟
