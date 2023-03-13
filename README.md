@@ -21,7 +21,7 @@
     - [Dockerfile](#dockerfile)
     - [Rust](#rust)
     - [Vue](#vue)
-    - [Kotlin](#kotlin)
+    - [Flutter](#flutter)
 
 ## 👑Stable Diffusion
 
@@ -49,6 +49,7 @@
 ### Vue
 - [Stable UI](https://github.com/aqualxx/stable-ui): Stable UI is a web user interface designed to generate, save, and view images using Stable Diffusion, with the goal being able to provide Stable Diffusion to anyone for 100% free.
 
-### Kotlin
+### Flutter
+- [Stable Horde](https://github.com/ndahlquist/stable-horde-flutter): An Android+iOS app for the Stable Horde
 
 A curated list of awesome stable diffusion resources 🌟
