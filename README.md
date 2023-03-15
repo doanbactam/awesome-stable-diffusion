@@ -35,11 +35,13 @@
 - [diffusers](https://github.com/huggingface/diffusers): Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [Dream textures](https://github.com/carson-katri/dream-textures): Stable Diffusion built-in to Blender
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion
+- [dream-factory](https://github.com/rbbrdckybk/dream-factory): Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
 - [InvokeAI: A Stable Diffusion Toolkit](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike.
+- [stable-diffusion-colab](https://github.com/woctezuma/stable-diffusion-colab): Colab notebook to run Stable Diffusion.
 
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
