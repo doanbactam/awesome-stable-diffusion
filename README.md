@@ -30,12 +30,14 @@
 ### Python
 
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
+- [lama-cleaner](https://github.com/Sanster/lama-cleaner): Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [Stability-AI](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
 - [diffusers](https://github.com/huggingface/diffusers): Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [Dream textures](https://github.com/carson-katri/dream-textures): Stable Diffusion built-in to Blender
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion
 - [dream-factory](https://github.com/rbbrdckybk/dream-factory): Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
+- [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
