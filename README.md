@@ -21,7 +21,6 @@
     - [PHP](#php)
     - [Swift](#swift)
     - [Dockerfile](#dockerfile)
-    - [Rust](#rust)
     - [Vue](#vue)
     - [Flutter](#flutter)
 
@@ -54,6 +53,8 @@
 
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt): ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
 - [Lsmith](https://github.com/ddPn08/Lsmith): StableDiffusionWebUI accelerated using TensorRT
+- [novelai-bot](https://github.com/koishijs/novelai-bot): Generate images by NovelAI | 基于 NovelAI 的画图机器人
+- [photoshot](https://github.com/shinework/photoshot): An open-source AI avatar generator web app
 
 ### PHP
 
@@ -66,12 +67,13 @@
 
 - [Stable Diffusion WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker): Easy Docker setup for Stable Diffusion with user-friendly UI
 
-### Rust
 
 ### Vue
 - [Stable UI](https://github.com/aqualxx/stable-ui): Stable UI is a web user interface designed to generate, save, and view images using Stable Diffusion, with the goal being able to provide Stable Diffusion to anyone for 100% free.
+- [stable-ui](https://github.com/aqualxx/stable-ui): 🔥 A frontend for generating images with Stable Diffusion through Stable Horde
 
 ### Flutter
 - [Stable Horde](https://github.com/ndahlquist/stable-horde-flutter): An Android+iOS app for the Stable Horde
+- [flutter_scribble](https://github.com/lahirumaramba/flutter_scribble): Turn your scribbles into detailed images with AI
 
 A curated list of awesome stable diffusion resources 🌟
