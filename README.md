@@ -1,5 +1,5 @@
 # NEW: Awesome Stable Diffusion ⭐
-
+<img alt="Awesome Stable Diffusion" src="https://repository-images.githubusercontent.com/613279917/f67c116d-b238-432e-8fa9-db17c8c9ac71">
 <br>
 <p align="center">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/doanbactam/AI-Art-Creator">
