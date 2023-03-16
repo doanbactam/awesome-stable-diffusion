@@ -37,6 +37,7 @@
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion
 - [dream-factory](https://github.com/rbbrdckybk/dream-factory): Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos): Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+- [Lama Cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
