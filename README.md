@@ -2,10 +2,10 @@
 <img alt="Awesome Stable Diffusion" src="https://repository-images.githubusercontent.com/613279917/f67c116d-b238-432e-8fa9-db17c8c9ac71">
 <br>
 <p align="center">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/doanbactam/AI-Art-Creator">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/doanbactam/AI-Art-Creator">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/doanbactam/AI-Art-Creator?style=social">
-<img alt="GitHub" src="https://img.shields.io/github/license/doanbactam/AI-Art-Creator">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/doanbactam/awesome-stable-diffusion">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/doanbactam/awesome-stable-diffusion">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/doanbactam/awesome-stable-diffusion?style=social">
+<img alt="GitHub" src="https://img.shields.io/github/license/doanbactam/awesome-stable-diffusion">
 
 </p>
 
