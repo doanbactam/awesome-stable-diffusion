@@ -2,7 +2,7 @@
 <img alt="Awesome Stable Diffusion" src="https://repository-images.githubusercontent.com/613279917/f67c116d-b238-432e-8fa9-db17c8c9ac71">
 <br>
 <p align="center">
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/doanbactam/awesome-stable-diffusion) 
+
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/doanbactam/awesome-stable-diffusion">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/doanbactam/awesome-stable-diffusion">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/doanbactam/awesome-stable-diffusion?style=social">
