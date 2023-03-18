@@ -45,6 +45,7 @@
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
 - [InvokeAI: A Stable Diffusion Toolkit](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike.
 - [stable-diffusion-colab](https://github.com/woctezuma/stable-diffusion-colab): Colab notebook to run Stable Diffusion.
+- [stability-sdk](https://github.com/Stability-AI/stability-sdk): SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
