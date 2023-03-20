@@ -78,5 +78,6 @@
 ### Flutter
 - [Stable Horde](https://github.com/ndahlquist/stable-horde-flutter): An Android+iOS app for the Stable Horde
 - [flutter_scribble](https://github.com/lahirumaramba/flutter_scribble): Turn your scribbles into detailed images with AI
+- [stability sdk](https://github.com/joshuadeguzman/stability-sdk-dart): An implementation of Stability AI SDK in Dart. Stability AI is a solution studio dedicated to innovating ideas.
 
 A curated list of awesome stable diffusion resources 🌟
