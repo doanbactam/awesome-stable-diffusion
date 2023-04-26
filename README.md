@@ -41,13 +41,16 @@
 - [Lama Cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [python-reddit-youtube-bot](https://github.com/alexlaverty/python-reddit-youtube-bot): Automated Reddit Youtube Video Bot
 - [Text-To-Video-Finetuning](https://github.com/ExponentialML/Text-To-Video-Finetuning): Finetune ModelScope's Text To Video model using Diffusers 🧨
+- [automatic](https://github.com/vladmandic/automatic): Opinionated fork/implementation of Stable Diffusion
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
 - [InvokeAI: A Stable Diffusion Toolkit](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike.
+- [carefree-creator](https://github.com/carefree0910/carefree-creator): AI magics meet Infinite draw board.
 - [stable-diffusion-colab](https://github.com/woctezuma/stable-diffusion-colab): Colab notebook to run Stable Diffusion.
 - [stability-sdk](https://github.com/Stability-AI/stability-sdk): SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
+- [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of Stable Diffusion web UI colab notebooks primarily focusing on anime
 
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
