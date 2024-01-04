@@ -42,6 +42,8 @@
 - [python-reddit-youtube-bot](https://github.com/alexlaverty/python-reddit-youtube-bot): Automated Reddit Youtube Video Bot
 - [Text-To-Video-Finetuning](https://github.com/ExponentialML/Text-To-Video-Finetuning): Finetune ModelScope's Text To Video model using Diffusers 🧨
 - [automatic](https://github.com/vladmandic/automatic): Opinionated fork/implementation of Stable Diffusion
+- [StyleTTS2](https://github.com/yl4579/StyleTTS2):  Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
+- [i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl): A holistic video generation ecosystem for video generation building on diffusion models
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
