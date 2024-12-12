@@ -55,6 +55,8 @@
 - [stable-diffusion-colab](https://github.com/woctezuma/stable-diffusion-colab): Colab notebook to run Stable Diffusion.
 - [stability-sdk](https://github.com/Stability-AI/stability-sdk): SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of Stable Diffusion web UI colab notebooks primarily focusing on anime
+- [paper2gui](https://github.com/Baiyuetribe/paper2gui): Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
+- [lora](https://github.com/cloneofsimo/lora) : Using Low-rank adaptation to quickly fine-tune diffusion models.
 
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
@@ -67,6 +69,7 @@
 - [Lsmith](https://github.com/ddPn08/Lsmith): StableDiffusionWebUI accelerated using TensorRT
 - [novelai-bot](https://github.com/koishijs/novelai-bot): Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [photoshot](https://github.com/shinework/photoshot): An open-source AI avatar generator web app
+- [StableStudio](https://github.com/Stability-AI/StableStudio) : Community interface for generative AI
 
 ### PHP
 
