@@ -30,6 +30,7 @@
 ### Python
 
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [lama-cleaner](https://github.com/Sanster/lama-cleaner): Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [Stability-AI](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
@@ -44,6 +45,7 @@
 - [automatic](https://github.com/vladmandic/automatic): Opinionated fork/implementation of Stable Diffusion
 - [StyleTTS2](https://github.com/yl4579/StyleTTS2):  Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl): A holistic video generation ecosystem for video generation building on diffusion models
+- [IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
