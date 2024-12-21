@@ -63,8 +63,7 @@
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
 - [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin): A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
-- []()
-
+- [dalle-playground](https://github.com/saharmor/dalle-playground) : A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 ### TypeScript
 
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt): ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
@@ -89,6 +88,8 @@
 ### Vue
 - [Stable UI](https://github.com/aqualxx/stable-ui): Stable UI is a web user interface designed to generate, save, and view images using Stable Diffusion, with the goal being able to provide Stable Diffusion to anyone for 100% free.
 - [stable-ui](https://github.com/aqualxx/stable-ui): 🔥 A frontend for generating images with Stable Diffusion through Stable Horde
+- [geekai](https://github.com/yangjian102621/geekai) : AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+- 
 
 ### Flutter
 - [Stable Horde](https://github.com/ndahlquist/stable-horde-flutter): An Android+iOS app for the Stable Horde
