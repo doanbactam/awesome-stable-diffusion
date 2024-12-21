@@ -46,6 +46,8 @@
 - [StyleTTS2](https://github.com/yl4579/StyleTTS2):  Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl): A holistic video generation ecosystem for video generation building on diffusion models
 - [IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [diffusers](https://github.com/huggingface/diffusers) : 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [python-reddit-youtube-bot](https://github.com/alexlaverty/python-reddit-youtube-bot) : About Automated Reddit Youtube Video Bot
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
@@ -70,6 +72,7 @@
 - [novelai-bot](https://github.com/koishijs/novelai-bot): Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [photoshot](https://github.com/shinework/photoshot): An open-source AI avatar generator web app
 - [StableStudio](https://github.com/Stability-AI/StableStudio) : Community interface for generative AI
+- [civitai](https://github.com/civitai/civitai) : A repository of models, textual inversions, and more
 
 ### PHP
 
