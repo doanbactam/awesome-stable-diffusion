@@ -48,6 +48,7 @@
 - [IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [diffusers](https://github.com/huggingface/diffusers) : 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [python-reddit-youtube-bot](https://github.com/alexlaverty/python-reddit-youtube-bot) : About Automated Reddit Youtube Video Bot
+- [nodetool](https://github.com/nodetool-ai/nodetool) : NodeTool - Your Creative AI Playground
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
@@ -73,6 +74,7 @@
 - [photoshot](https://github.com/shinework/photoshot): An open-source AI avatar generator web app
 - [StableStudio](https://github.com/Stability-AI/StableStudio) : Community interface for generative AI
 - [civitai](https://github.com/civitai/civitai) : A repository of models, textual inversions, and more
+- [sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) : 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 
 ### PHP
 
