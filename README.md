@@ -49,6 +49,7 @@
 - [diffusers](https://github.com/huggingface/diffusers) : 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [python-reddit-youtube-bot](https://github.com/alexlaverty/python-reddit-youtube-bot) : About Automated Reddit Youtube Video Bot
 - [nodetool](https://github.com/nodetool-ai/nodetool) : NodeTool - Your Creative AI Playground
+- [Plush-for-ComfyUI](https://github.com/glibsonoran/Plush-for-ComfyUI) : Custom node for ComfyUI/Stable Diffustion
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
