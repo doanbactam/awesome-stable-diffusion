@@ -100,4 +100,14 @@
 - [flutter_scribble](https://github.com/lahirumaramba/flutter_scribble): Turn your scribbles into detailed images with AI
 - [stability sdk](https://github.com/joshuadeguzman/stability-sdk-dart): An implementation of Stability AI SDK in Dart. Stability AI is a solution studio dedicated to innovating ideas.
 
+## ⭐️ Star History
+
+<a href="https://star-history.com/#doanbactam/awesome-stable-diffusion&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=doanbactam/awesome-stable-diffusion&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=doanbactam/awesome-stable-diffusion&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=doanbactam/awesome-stable-diffusion&type=Date" />
+ </picture>
+</a>
+
 A curated list of awesome stable diffusion resources 🌟
