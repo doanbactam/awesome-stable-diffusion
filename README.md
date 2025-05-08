@@ -76,6 +76,7 @@
 - [photoshot](https://github.com/shinework/photoshot): An open-source AI avatar generator web app
 - [StableStudio](https://github.com/Stability-AI/StableStudio) : Community interface for generative AI
 - [civitai](https://github.com/civitai/civitai) : A repository of models, textual inversions, and more
+- [big-AGI](https://github.com/enricoros/big-AGI) : AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more.
 - [sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) : 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 
 ### PHP
