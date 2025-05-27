@@ -52,6 +52,7 @@
 - [nodetool](https://github.com/nodetool-ai/nodetool) : NodeTool - Your Creative AI Playground
 - [Plush-for-ComfyUI](https://github.com/glibsonoran/Plush-for-ComfyUI) : Custom node for ComfyUI/Stable Diffustion
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) : Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+- [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS): Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
