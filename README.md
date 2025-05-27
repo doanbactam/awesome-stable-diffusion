@@ -24,6 +24,7 @@
     - [Dockerfile](#dockerfile)
     - [Vue](#vue)
     - [Flutter](#flutter)
+    - [C/C++](#c)
 
 ## 👑Stable Diffusion
 
@@ -68,6 +69,7 @@
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
 - [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin): A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [dalle-playground](https://github.com/saharmor/dalle-playground) : A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
+- [easydiffusion](https://github.com/easydiffusion/easydiffusion): A simple 1-click way to create beautiful artwork on your computer using AI. No dependencies or technical knowledge required.
 ### TypeScript
 
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt): ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
@@ -101,6 +103,9 @@
 - [Stable Horde](https://github.com/ndahlquist/stable-horde-flutter): An Android+iOS app for the Stable Horde
 - [flutter_scribble](https://github.com/lahirumaramba/flutter_scribble): Turn your scribbles into detailed images with AI
 - [stability sdk](https://github.com/joshuadeguzman/stability-sdk-dart): An implementation of Stability AI SDK in Dart. Stability AI is a solution studio dedicated to innovating ideas.
+
+### C/C++
+- [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp): Stable Diffusion and Flux in pure C/C++
 
 ## ⭐️ Star History
 
