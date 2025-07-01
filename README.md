@@ -54,6 +54,15 @@
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) : Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS): Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
 
+- [ControlNet](https://github.com/lllyasviel/ControlNet): Add condition control to Stable Diffusion models.
+- [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): Extension enabling ControlNet in AUTOMATIC1111's web UI.
+- [sd-scripts](https://github.com/kohya-ss/sd-scripts): Training scripts for DreamBooth and LoRA.
+- [kohya_ss](https://github.com/bmaltais/kohya_ss): GUI for training LoRA models with Stable Diffusion.
+- [stable-diffusion-x4-upscaler](https://github.com/Stability-AI/stable-diffusion-x4-upscaler): Pretrained upscaler for Stable Diffusion outputs.
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): AI-powered image upscaler often paired with Stable Diffusion.
+- [latent-diffusion](https://github.com/CompVis/latent-diffusion): High-resolution diffusion model that inspired Stable Diffusion.
+- [stable-diffusion](https://github.com/lstein/stable-diffusion): Command line tool to run Stable Diffusion locally.
+
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
@@ -65,6 +74,8 @@
 - [paper2gui](https://github.com/Baiyuetribe/paper2gui): Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [lora](https://github.com/cloneofsimo/lora) : Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [stable-diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) : FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod
+- [stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab): One-click Colab setup for AUTOMATIC1111's web UI.
+- [disco-diffusion](https://github.com/alembics/disco-diffusion): Notebook for creative diffusion-based image generation.
 
 ### JavaScript
 - [Easy Diffusion 2.5](https://github.com/cmdr2/stable-diffusion-ui): The easiest way to install and use Stable Diffusion on your own computer.
