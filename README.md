@@ -63,6 +63,15 @@
 - [latent-diffusion](https://github.com/CompVis/latent-diffusion): High-resolution diffusion model that inspired Stable Diffusion.
 - [stable-diffusion](https://github.com/lstein/stable-diffusion): Command line tool to run Stable Diffusion locally.
 
+- [Fooocus](https://github.com/lllyasviel/Fooocus): User-friendly interface for running Stable Diffusion.
+- [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI): Multi-user web UI for Stable Diffusion.
+- [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager): Manage and install custom nodes for ComfyUI.
+- [sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks): Load LoRA and other networks in A1111's Web UI.
+- [sd-webui-tunnels](https://github.com/camenduru/sd-webui-tunnels): Share Stable Diffusion Web UI through tunnels.
+- [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion): DreamBooth fine-tuning for Stable Diffusion.
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui): Feature-rich fork of Stable Diffusion Web UI.
+- [adetailer](https://github.com/Bing-su/adetailer): Automatic detailing extension for Stable Diffusion Web UI.
+
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model
@@ -82,6 +91,8 @@
 - [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin): A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [dalle-playground](https://github.com/saharmor/dalle-playground) : A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [easydiffusion](https://github.com/easydiffusion/easydiffusion): A simple 1-click way to create beautiful artwork on your computer using AI. No dependencies or technical knowledge required.
+- [openOutpaint](https://github.com/zero01101/openOutpaint): In-browser outpainting tool for Stable Diffusion.
+- [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion): Run Stable Diffusion in the browser with WebGPU.
 ### TypeScript
 
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt): ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
