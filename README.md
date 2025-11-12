@@ -28,6 +28,11 @@
 
 ## 👑Stable Diffusion
 
+
+### 🌐 Online Platforms
+
+- [Gempix2 (Nano Banana 2)](https://gempix2.site): Free AI image generation platform with text-to-image, AI editing, and video generation support
+
 ### Python
 
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
