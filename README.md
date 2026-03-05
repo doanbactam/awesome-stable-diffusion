@@ -32,6 +32,7 @@
 
 - [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Diffusers](https://github.com/huggingface/diffusers): Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [lama-cleaner](https://github.com/Sanster/lama-cleaner): Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [Stability-AI](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
