@@ -98,6 +98,7 @@
 ### TypeScript
 
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt): ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored): All-in-one local AI app with uncensored chat, image generation (ComfyUI/Stable Diffusion), and video generation in a single React UI. Runs 100% offline.
 - [Lsmith](https://github.com/ddPn08/Lsmith): StableDiffusionWebUI accelerated using TensorRT
 - [novelai-bot](https://github.com/koishijs/novelai-bot): Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [photoshot](https://github.com/shinework/photoshot): An open-source AI avatar generator web app
