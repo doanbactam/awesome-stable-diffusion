@@ -105,6 +105,7 @@
 - [civitai](https://github.com/civitai/civitai) : A repository of models, textual inversions, and more
 - [big-AGI](https://github.com/enricoros/big-AGI) : AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more.
 - [sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) : 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset): MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models including Stable Diffusion variants. Zero API key required for first run via free tiers.
 
 ### PHP
 
