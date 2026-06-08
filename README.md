@@ -132,6 +132,9 @@
 ### C/C++
 - [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp): Stable Diffusion and Flux in pure C/C++
 
+### API and Infrastructure
+- [TWZRD Agent Intel](https://intel.twzrd.xyz): Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments (e.g. for model access or compute). Free MCP endpoint: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## ⭐️ Star History
 
 <a href="https://star-history.com/#doanbactam/awesome-stable-diffusion&Date">
