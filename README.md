@@ -53,6 +53,7 @@
 - [Plush-for-ComfyUI](https://github.com/glibsonoran/Plush-for-ComfyUI) : Custom node for ComfyUI/Stable Diffustion
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) : Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS): Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop): Open-source (AGPL-3.0) macOS app with on-device Stable Diffusion image generation running fully local; part of a local-first AI suite (LLM chat, dictation, RAG). No account, no telemetry, no cloud. Site https://getoffgridai.co/desktop.
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet): Add condition control to Stable Diffusion models.
 - [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): Extension enabling ControlNet in AUTOMATIC1111's web UI.
