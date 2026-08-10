@@ -56,6 +56,7 @@
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS): Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
 - [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop): Open-source (AGPL-3.0) macOS app with on-device Stable Diffusion image generation running fully local; part of a local-first AI suite (LLM chat, dictation, RAG). No account, no telemetry, no cloud. Site https://getoffgridai.co/desktop.
 - [Image MetaHub](https://github.com/LuqP2/Image-MetaHub): Local-first desktop app to search and organize AI-generated images by prompt, model, LoRA, seed, and full ComfyUI workflow metadata. Windows/macOS/Linux, fully offline. Free with optional Pro.
+- [ImageBench](https://github.com/dh7/image-bench-ai): Open text-to-image benchmark ranking 50+ models (Flux 2 Pro/Max/Klein, Qwen Image, Sana, Recraft V3, Ideogram v3/v4, Seedream V4/V5, Nano Banana, GPT Image 2, Imagen 4, and more) on 192 prompts across 6 categories using VLM judges. Every generated image is published — no cherry-picking. Live leaderboard and side-by-side comparisons at https://imagebench.ai.
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet): Add condition control to Stable Diffusion models.
 - [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): Extension enabling ControlNet in AUTOMATIC1111's web UI.
