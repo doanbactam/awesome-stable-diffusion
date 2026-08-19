@@ -76,6 +76,7 @@
 - [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion): DreamBooth fine-tuning for Stable Diffusion.
 - [sygil-webui](https://github.com/Sygil-Dev/sygil-webui): Feature-rich fork of Stable Diffusion Web UI.
 - [adetailer](https://github.com/Bing-su/adetailer): Automatic detailing extension for Stable Diffusion Web UI.
+- [comfy-vault](https://github.com/Chepko932/comfy-vault): Standalone CLI that finds unused models and broken LoRAs in a ComfyUI install.
 
 ### Jupyter Notebook
 - [anime-webui-colab](https://github.com/NUROISEA/anime-webui-colab): A collection of stable diffusion web ui colabs primarily focusing on anime
