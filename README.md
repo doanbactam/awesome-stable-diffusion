@@ -30,17 +30,22 @@
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Minimal, user-friendly interface focused on good defaults.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Creative engine aimed at professionals and enthusiasts.
 - [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Install and manage custom nodes for ComfyUI.
+- [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - Modular high-performance web UI for image and video diffusion models.
+- [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Optimized A1111-based WebUI with improved VRAM management and speed.
+- [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Quality-of-life utility and model optimization nodes for ComfyUI.
 
 ## Libraries
 
 - [Diffusers](https://github.com/huggingface/diffusers) - Official Hugging Face library for diffusion pipelines and training helpers.
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Extended LoRA-style adapters beyond conventional methods.
+- [flux](https://github.com/black-forest-labs/flux) - Official inference code for FLUX.1 open-weight models.
 
 ## Training
 
 - [sd-scripts](https://github.com/kohya-ss/sd-scripts) - Core training scripts for DreamBooth and LoRA.
 - [kohya_ss](https://github.com/bmaltais/kohya_ss) - Popular GUI wrapper around kohya training scripts.
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Alternative network architectures for efficient fine-tuning.
+- [ai-toolkit](https://github.com/ostris/ai-toolkit) - All-in-one training toolkit for FLUX/SDXL and other diffusion models.
 
 ## Control and conditioning
 
@@ -59,6 +64,7 @@
 - [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux inference in pure C/C++.
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Native Stable Diffusion on Mac.
 - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Run Stable Diffusion in the browser with WebGPU.
+- [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF quantization support for native ComfyUI models (FLUX/SD3).
 
 ## Integrations
 
