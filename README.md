@@ -33,6 +33,7 @@
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - Modular high-performance web UI for image and video diffusion models.
 - [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Optimized A1111-based WebUI with improved VRAM management and speed.
 - [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Quality-of-life utility and model optimization nodes for ComfyUI.
+- [rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Utility nodes and workflow improvements for ComfyUI.
 
 ## Libraries
 
@@ -46,6 +47,8 @@
 - [kohya_ss](https://github.com/bmaltais/kohya_ss) - Popular GUI wrapper around kohya training scripts.
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Alternative network architectures for efficient fine-tuning.
 - [ai-toolkit](https://github.com/ostris/ai-toolkit) - All-in-one training toolkit for FLUX/SDXL and other diffusion models.
+- [OneTrainer](https://github.com/Nerogar/OneTrainer) - Unified GUI and scripts for training diffusion models including FLUX and SDXL.
+- [musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - Kohya training scripts specialized for video diffusion models.
 
 ## Control and conditioning
 
@@ -53,11 +56,15 @@
 - [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - ControlNet extension for AUTOMATIC1111 WebUI.
 - [sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) - Load LoRA and extra networks in A1111 WebUI.
 - [adetailer](https://github.com/Bing-su/adetailer) - Automatic detection and detailing extension for WebUI.
+- [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - Reference IP-Adapter nodes for image prompt conditioning in ComfyUI.
+- [comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - Auxiliary preprocessors for ControlNet hint images in ComfyUI.
+- [x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui) - ComfyUI nodes for FLUX ControlNets and LoRAs.
 
 ## Upscale and restore
 
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical AI image upscaler commonly used with Stable Diffusion.
 - [IOPaint](https://github.com/Sanster/IOPaint) - Inpainting and object removal powered by modern AI models.
+- [ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - Detector, detailer, and upscaler nodes for image enhancement in ComfyUI.
 
 ## Local and edge
 
@@ -65,6 +72,7 @@
 - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Native Stable Diffusion on Mac.
 - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Run Stable Diffusion in the browser with WebGPU.
 - [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF quantization support for native ComfyUI models (FLUX/SD3).
+- [mflux](https://github.com/filipstrand/mflux) - Native MLX port of FLUX and related models for Apple Silicon.
 
 ## Integrations
 
@@ -77,6 +85,7 @@
 - [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create videos by morphing between text prompts in latent space.
 - [i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Video generation ecosystem built on diffusion models.
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D generation powered by Stable Diffusion.
+- [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - Wrapper nodes for Wan video generation models in ComfyUI.
 
 ## Desktop apps
 
