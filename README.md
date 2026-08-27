@@ -34,12 +34,15 @@
 - [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Optimized A1111-based WebUI with improved VRAM management and speed.
 - [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Quality-of-life utility and model optimization nodes for ComfyUI.
 - [rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Utility nodes and workflow improvements for ComfyUI.
+- [ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - Photoshop-style layer, mask and compositing nodes for ComfyUI.
+- [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Utility and workflow enhancement nodes for ComfyUI.
 
 ## Libraries
 
 - [Diffusers](https://github.com/huggingface/diffusers) - Official Hugging Face library for diffusion pipelines and training helpers.
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Extended LoRA-style adapters beyond conventional methods.
 - [flux](https://github.com/black-forest-labs/flux) - Official inference code for FLUX.1 open-weight models.
+- [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Unified diffusion engine with VRAM management, training and inference for FLUX, Wan and SD models.
 
 ## Training
 
@@ -59,6 +62,7 @@
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - Reference IP-Adapter nodes for image prompt conditioning in ComfyUI.
 - [comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - Auxiliary preprocessors for ControlNet hint images in ComfyUI.
 - [x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui) - ComfyUI nodes for FLUX ControlNets and LoRAs.
+- [ComfyUI-Advanced-ControlNet](https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet) - Advanced ControlNet nodes with timestep scheduling and attention masks.
 
 ## Upscale and restore
 
@@ -73,6 +77,7 @@
 - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Run Stable Diffusion in the browser with WebGPU.
 - [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF quantization support for native ComfyUI models (FLUX/SD3).
 - [mflux](https://github.com/filipstrand/mflux) - Native MLX port of FLUX and related models for Apple Silicon.
+- [ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) - ComfyUI nodes for 4-bit SVDQuant inference of FLUX and related models.
 
 ## Integrations
 
@@ -94,6 +99,7 @@
 - [Imference Desktop](https://github.com/Publikey/imference-desktop) - Local desktop app supporting SDXL, SD 1.5, FLUX, and custom weights.
 - [Image MetaHub](https://github.com/LuqP2/Image-MetaHub) - Search and organize AI images by prompt, model, LoRA, and workflow metadata.
 - [ImageBench](https://github.com/dh7/image-bench-ai) - Open benchmark ranking text-to-image models with published outputs.
+- [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-platform package manager and launcher for ComfyUI, Forge, A1111 and training tools.
 
 ## Contributing
 
