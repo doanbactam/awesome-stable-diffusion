@@ -91,6 +91,9 @@
 - [i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Video generation ecosystem built on diffusion models.
 - [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D generation powered by Stable Diffusion.
 - [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - Wrapper nodes for Wan video generation models in ComfyUI.
+- [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) - Nodes for video loading, combining, batching, and frame utilities in ComfyUI.
+- [ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation) - Video frame interpolation nodes supporting RIFE, FILM, GMFSS and other VFI models.
+- [ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - Nodes for 3D mesh, 3DGS, and NeRF generation from images in ComfyUI.
 
 ## Desktop apps
 
