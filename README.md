@@ -77,6 +77,7 @@
 - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Run Stable Diffusion in the browser with WebGPU.
 - [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF quantization support for native ComfyUI models (FLUX/SD3).
 - [mflux](https://github.com/filipstrand/mflux) - Native MLX port of FLUX and related models for Apple Silicon.
+- [Mold](https://github.com/utensils/mold) - CLI-native local AI image/video/3D generation in Rust/Candle with CUDA/Metal and MCP.
 - [ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) - ComfyUI nodes for 4-bit SVDQuant inference of FLUX and related models.
 
 ## Integrations
