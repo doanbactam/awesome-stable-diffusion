@@ -32,10 +32,12 @@
 - [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Install and manage custom nodes for ComfyUI.
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - Modular high-performance web UI for image and video diffusion models.
 - [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Optimized A1111-based WebUI with improved VRAM management and speed.
+- [sd-webui-forge-classic](https://github.com/Haoming02/sd-webui-forge-classic) - Actively maintained Forge Neo fork with FLUX, Wan, Qwen and modern model support.
 - [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Quality-of-life utility and model optimization nodes for ComfyUI.
 - [rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Utility nodes and workflow improvements for ComfyUI.
 - [ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - Photoshop-style layer, mask and compositing nodes for ComfyUI.
 - [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Utility and workflow enhancement nodes for ComfyUI.
+- [ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use) - Efficiency nodes that integrate common utilities for faster ComfyUI workflows.
 
 ## Libraries
 
@@ -63,6 +65,8 @@
 - [comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - Auxiliary preprocessors for ControlNet hint images in ComfyUI.
 - [x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui) - ComfyUI nodes for FLUX ControlNets and LoRAs.
 - [ComfyUI-Advanced-ControlNet](https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet) - Advanced ControlNet nodes with timestep scheduling and attention masks.
+- [ComfyUI-Fluxtapoz](https://github.com/logtd/ComfyUI-Fluxtapoz) - ComfyUI nodes for Flux image editing via RF-Inversion and related methods.
+- [ComfyUI-BrushNet](https://github.com/nullquant/ComfyUI-BrushNet) - Native BrushNet and PowerPaint inpainting nodes for any checkpoint.
 
 ## Upscale and restore
 
