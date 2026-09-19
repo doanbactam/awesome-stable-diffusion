@@ -45,6 +45,7 @@
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Extended LoRA-style adapters beyond conventional methods.
 - [flux](https://github.com/black-forest-labs/flux) - Official inference code for FLUX.1 open-weight models.
 - [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Unified diffusion engine with VRAM management, training and inference for FLUX, Wan and SD models.
+- [image-to-prompt-browser](https://github.com/suyongtong4-dot/image-to-prompt-browser) - Dependency-free browser library that measures an image and writes a diffusion prompt from those measurements.
 
 ## Training
 
