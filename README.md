@@ -38,7 +38,7 @@
 - [ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - Photoshop-style layer, mask and compositing nodes for ComfyUI.
 - [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Utility and workflow enhancement nodes for ComfyUI.
 - [ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use) - Efficiency nodes that integrate common utilities for faster ComfyUI workflows.
-- [Adapt-Diffuse](https://github.com/jhfuheuiwfh/adaptdiffuse) - Plug-and-play Stable Diffusion engine with automatic GPU backend cascade (CUDA/Vulkan/ROCm/DirectML/CPU) and a Gradio WebUI.
+- [Adapt-Diffuse](https://github.com/jhfuheuiwfh/adaptdiffuse) - Plug-and-play Stable Diffusion engine with automatic CUDA/Vulkan/DirectML/CPU selection, optional forced ROCm, and a Gradio WebUI.
 
 ## Libraries
 
