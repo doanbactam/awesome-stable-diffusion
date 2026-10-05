@@ -31,6 +31,7 @@
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Creative engine aimed at professionals and enthusiasts.
 - [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Install and manage custom nodes for ComfyUI.
 - [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - Modular high-performance web UI for image and video diffusion models.
+- [HEISS UI](https://github.com/tristmeister/HEISS-UI) - Image-first local front end for ComfyUI with 28 built-in image and video model families, custom workflow import, LoRA stacks, upscaling, a phone layout and LAN access.
 - [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Optimized A1111-based WebUI with improved VRAM management and speed.
 - [sd-webui-forge-classic](https://github.com/Haoming02/sd-webui-forge-classic) - Actively maintained Forge Neo fork with FLUX, Wan, Qwen and modern model support.
 - [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Quality-of-life utility and model optimization nodes for ComfyUI.
