@@ -109,6 +109,7 @@
 - [Image MetaHub](https://github.com/LuqP2/Image-MetaHub) - Search and organize AI images by prompt, model, LoRA, and workflow metadata.
 - [ImageBench](https://github.com/dh7/image-bench-ai) - Open benchmark ranking text-to-image models with published outputs.
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-platform package manager and launcher for ComfyUI, Forge, A1111 and training tools.
+- [ImageLoom](https://github.com/elapen/imageloom) - Local Mac image studio on stable-diffusion.cpp with chat-style UI, brush-mask editing, Real-ESRGAN upscaling and PNG/WebP/SVG export.
 
 ## Contributing
 
