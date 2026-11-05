@@ -109,6 +109,7 @@
 - [Image MetaHub](https://github.com/LuqP2/Image-MetaHub) - Search and organize AI images by prompt, model, LoRA, and workflow metadata.
 - [ImageBench](https://github.com/dh7/image-bench-ai) - Open benchmark ranking text-to-image models with published outputs.
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-platform package manager and launcher for ComfyUI, Forge, A1111 and training tools.
+- [Phosphene AI](https://github.com/mrbizarro/Phosphene) - MIT studio for local video with sound, images and songs on Apple Silicon, using MLX.
 
 ## Contributing
 
