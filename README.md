@@ -110,6 +110,7 @@
 - [ImageBench](https://github.com/dh7/image-bench-ai) - Open benchmark ranking text-to-image models with published outputs.
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-platform package manager and launcher for ComfyUI, Forge, A1111 and training tools.
 - [Phosphene AI](https://github.com/mrbizarro/Phosphene) - MIT studio for local video with sound, images and songs on Apple Silicon, using MLX.
+- [Lumina](https://github.com/fabwaseem/lumina) - Cross-platform gallery for browsing CivitAI images and sending their prompts to a local ComfyUI server.
 
 ## Contributing
 
