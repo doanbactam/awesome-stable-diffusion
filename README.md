@@ -54,6 +54,7 @@
 - [LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Alternative network architectures for efficient fine-tuning.
 - [ai-toolkit](https://github.com/ostris/ai-toolkit) - All-in-one training toolkit for FLUX/SDXL and other diffusion models.
 - [OneTrainer](https://github.com/Nerogar/OneTrainer) - Unified GUI and scripts for training diffusion models including FLUX and SDXL.
+- [LoRA Dataset Studio](https://github.com/perfectgf/lora-dataset-studio) - Self-hosted dataset curation, captioning, LoRA training with ai-toolkit, and checkpoint comparison.
 - [musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - Kohya training scripts specialized for video diffusion models.
 
 ## Control and conditioning
