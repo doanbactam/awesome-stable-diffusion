@@ -105,7 +105,7 @@
 ## Desktop apps
 
 - [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) - Simple one-click local installation for non-technical users.
-- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) - Local-first macOS app for on-device image generation.
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Local-first macOS, Windows and Linux app for on-device image generation.
 - [Imference Desktop](https://github.com/Publikey/imference-desktop) - Local desktop app supporting SDXL, SD 1.5, FLUX, and custom weights.
 - [Image MetaHub](https://github.com/LuqP2/Image-MetaHub) - Search and organize AI images by prompt, model, LoRA, and workflow metadata.
 - [ImageBench](https://github.com/dh7/image-bench-ai) - Open benchmark ranking text-to-image models with published outputs.
