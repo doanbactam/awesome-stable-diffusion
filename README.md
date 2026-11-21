@@ -111,6 +111,7 @@
 - [ImageBench](https://github.com/dh7/image-bench-ai) - Open benchmark ranking text-to-image models with published outputs.
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-platform package manager and launcher for ComfyUI, Forge, A1111 and training tools.
 - [Phosphene AI](https://github.com/mrbizarro/Phosphene) - MIT studio for local video with sound, images and songs on Apple Silicon, using MLX.
+- [Retrace](https://github.com/juw12/retrace) - Local app that reads prompt, seed, sampler, model and LoRAs from A1111, ComfyUI and NovelAI images.
 
 ## Contributing
 
