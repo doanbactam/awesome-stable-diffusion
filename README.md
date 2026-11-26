@@ -39,6 +39,8 @@
 - [ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - Photoshop-style layer, mask and compositing nodes for ComfyUI.
 - [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Utility and workflow enhancement nodes for ComfyUI.
 - [ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use) - Efficiency nodes that integrate common utilities for faster ComfyUI workflows.
+- [Restore](https://github.com/flynbird-cyber/Restore) - AUTOMATIC1111 extension that restores up to 2,000 saved PNG images and their generation metadata to the txt2img gallery.
+
 
 ## Libraries
 
